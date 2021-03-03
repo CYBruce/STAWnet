@@ -4,7 +4,23 @@
 
 This repository contains the *source code* of the following research paper:
 
-- C.Y. Tian, W.K.V. Chan, Spatial-Temporal Attention Wavenet: a deep learning framework for traffic prediction considering spatial-temporal dependencies,IET Intelligent Traffic Systems
+- C.Y. Tian, W.K.V. Chan, Spatial-Temporal Attention Wavenet: a deep learning framework for traffic prediction considering spatial-temporal dependencies. IET Intell Transp Syst.2021;1–13. https://doi.org/10.1049/itr2.12044
+
+Please cite
+
+```latex
+@article{https://doi.org/10.1049/itr2.12044,
+author = {Tian, Chenyu and Chan, Wai Kin (Victor)},
+title = {Spatial-temporal attention wavenet: A deep learning framework for traffic prediction considering spatial-temporal dependencies},
+journal = {IET Intelligent Transport Systems},
+volume = {n/a},
+number = {n/a},
+pages = {},
+doi = {https://doi.org/10.1049/itr2.12044},
+url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12044},
+eprint = {https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/itr2.12044}
+}
+```
 
 ## Introduction
 
@@ -34,3 +50,4 @@ python train.py
 ## Contact
 
 If you have any question, please feel free to send an E-mail to tiancy19@mails.tsinghua.edu.cn.
+
