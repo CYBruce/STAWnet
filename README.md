@@ -13,12 +13,12 @@ Please cite
 author = {Tian, Chenyu and Chan, Wai Kin (Victor)},
 title = {Spatial-temporal attention wavenet: A deep learning framework for traffic prediction considering spatial-temporal dependencies},
 journal = {IET Intelligent Transport Systems},
-volume = {n/a},
-number = {n/a},
-pages = {},
+volume = {15},
+number = {4},
+pages = {549-561},
 doi = {https://doi.org/10.1049/itr2.12044},
 url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12044},
-eprint = {https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/itr2.12044}
+year = {2021}
 }
 ```
 
