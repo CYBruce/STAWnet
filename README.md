@@ -47,7 +47,6 @@ python generate_training_data.py --output_dir=data/PEMS-BAY --traffic_df_filenam
 python train.py
 ```
 
-## Contact
-
-If you have any question, please feel free to send an E-mail to tiancy19@mails.tsinghua.edu.cn.
+## Acknowledgement
+This research is funded by the Shenzhen Science and Technology Innovation Commission (Grant No. JCYJ20210324135011030, WDZC20200818121348001 and KCXFZ202002011010487), the National Natural Science Foundation of China (Grant No. 71971127), Guangdong Pearl River Plan (2019QN01X890), and the Hylink Digital Solutions Co., Ltd. (120500002).
 
